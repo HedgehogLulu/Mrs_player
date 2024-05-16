@@ -75,7 +75,7 @@ class Ui_MusicMrsMia(object):
         self.label_wt = QtWidgets.QLabel(self.wt_bottom_panel)
         self.label_wt.setGeometry(QtCore.QRect(250, 0, 51, 31))
         self.label_wt.setText("")
-        self.label_wt.setPixmap(QtGui.QPixmap("../pythonProject1.0/phone icons/3.png"))
+        self.label_wt.setPixmap(QtGui.QPixmap("phone icons/3.png"))
         self.label_wt.setScaledContents(True)
         self.label_wt.setObjectName("label_wt")
         self.frame_music_and_3pl = QtWidgets.QFrame(self.wt_base)
