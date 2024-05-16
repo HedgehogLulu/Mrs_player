@@ -1,1 +1,1 @@
-# Mrs_player
+Music Player in PyQt5
